@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d674c035.chunk.css",
-    "main.js": "/static/js/main.4233a155.chunk.js",
-    "main.js.map": "/static/js/main.4233a155.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.11fdc3d2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.11fdc3d2.js.map",
-    "static/js/2.0689f42d.chunk.js": "/static/js/2.0689f42d.chunk.js",
-    "static/js/2.0689f42d.chunk.js.map": "/static/js/2.0689f42d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d674c035.chunk.css.map": "/static/css/main.d674c035.chunk.css.map",
-    "static/js/2.0689f42d.chunk.js.LICENSE.txt": "/static/js/2.0689f42d.chunk.js.LICENSE.txt",
-    "static/media/jokerimage.d5824309.jpg": "/static/media/jokerimage.d5824309.jpg"
+    "main.css": "/jokesapi/static/css/main.d674c035.chunk.css",
+    "main.js": "/jokesapi/static/js/main.4233a155.chunk.js",
+    "main.js.map": "/jokesapi/static/js/main.4233a155.chunk.js.map",
+    "runtime-main.js": "/jokesapi/static/js/runtime-main.ded01602.js",
+    "runtime-main.js.map": "/jokesapi/static/js/runtime-main.ded01602.js.map",
+    "static/js/2.0689f42d.chunk.js": "/jokesapi/static/js/2.0689f42d.chunk.js",
+    "static/js/2.0689f42d.chunk.js.map": "/jokesapi/static/js/2.0689f42d.chunk.js.map",
+    "index.html": "/jokesapi/index.html",
+    "static/css/main.d674c035.chunk.css.map": "/jokesapi/static/css/main.d674c035.chunk.css.map",
+    "static/js/2.0689f42d.chunk.js.LICENSE.txt": "/jokesapi/static/js/2.0689f42d.chunk.js.LICENSE.txt",
+    "static/media/jokerimage.d5824309.jpg": "/jokesapi/static/media/jokerimage.d5824309.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.11fdc3d2.js",
+    "static/js/runtime-main.ded01602.js",
     "static/js/2.0689f42d.chunk.js",
     "static/css/main.d674c035.chunk.css",
     "static/js/main.4233a155.chunk.js"
